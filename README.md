@@ -17,8 +17,10 @@ music notes “C4” and “A4” (with frequency of 262Hz, 440Hz, respectively)
 To match with the frequencies, an error of 2% is allowed. For example, you can
 recognize the note as C4 if the peak frequency is in the range of between 257Hz and
 267Hz.
+
+
+
 **MATERIALS REQUIRED:**
-|:--------:|--------:|
 |Part Name| Quantity|
 
 |Arduino board| 1|
