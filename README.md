@@ -21,17 +21,17 @@ recognize the note as C4 if the peak frequency is in the range of between 257Hz 
 
 
 **MATERIALS REQUIRED:**
-|Part Name| Quantity|
-
-|Arduino board| 1|
-|:------------:|--------:|
-|DC motor| 1|
-|Power supply module|1|
-|L293D |1|
-|Button| 1|
-|Sound module| 1|
-|Robot kit(includes top/bottom plates,batterycharger,tt motors,wheels setsetc) |1|
-|assorted jumper wires| as needed| 
+| Part Name                                                                     |Quantity   |
+|-------------------------------------------------------------------------------|-----------|
+|                                                                               |           |
+| Arduino board                                                                 | 1         |
+| DC motor                                                                      | 1         |
+| Power supply module                                                           | 1         |
+| L293D                                                                         | 1         |
+| Button                                                                        | 1         |
+| Sound module                                                                  | 1         |
+| Robot kit(includes top/bottom plates,batterycharger,tt motors,wheels setsetc) | 1         |
+| assorted jumper wires                                                         | as needed |
 
 
 
