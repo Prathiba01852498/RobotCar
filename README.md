@@ -1,10 +1,14 @@
-# RobotCar
-Self driving robot car
+## RobotCar
+#Self driving robot car
 
 
-/**Aim**:To design a robot car which can drive itself surrounding an object such as a trash can or one gallon milk bottle 
+**Aim**:
+
+To design a robot car which can drive itself surrounding an object such as a trash can or one gallon milk bottle 
+
 (1) Use the Arduino to control the two DC motors to drive the car moving forward, backward,
 turn left, or turn right.
+
 (2) Use the ultrasonic distance sensor to measure the distance between the car and a
 nearby object such as a trash can.
 (3) Implement a control algorithm to drive the robot car such that the car cycles around a
