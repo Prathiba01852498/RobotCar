@@ -60,6 +60,6 @@ robot car: https://github.com/ACANETS/eece-4520-5520-
 labs/blob/2039441de8a069a14cadbb58f175f142d48f87c0/lab3/assembly%20guide.md
 
 5. Hugging bot demo video: https://youtu.be/7CNUAesYvLU
-![image](https://github.com/Prathiba01852498/RobotCar/assets/157857568/cff0b341-70ac-467e-ba7d-ed0fc2f4e77a)
+
 
 
