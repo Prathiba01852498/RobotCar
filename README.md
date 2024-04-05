@@ -61,7 +61,10 @@ manager tool.
 robot car: https://github.com/ACANETS/eece-4520-5520-
 labs/blob/2039441de8a069a14cadbb58f175f142d48f87c0/lab3/assembly%20guide.md
 
-5. Hugging bot demo video: https://youtu.be/7CNUAesYvLU
+
+5. Add FFT library manually from Arduino IDE Manage libraries and add ArduinoFFT by Enrique Condes
+
+6. Hugging bot demo video: https://youtu.be/7CNUAesYvLU
 
 
 
